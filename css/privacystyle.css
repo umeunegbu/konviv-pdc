@@ -1,0 +1,43 @@
+h1, h2, p, li{
+    color: var(--color-black)!important;
+}
+
+a {
+    /* Allows the text to break and wrap to the next line */
+    overflow-wrap: break-word;
+    word-wrap: break-word; /* For compatibility with older browsers */
+    word-break: break-all; /* Breaks words at any character to prevent overflow */
+  }  
+
+.navbar{
+    /*border-bottom: 2px solid var(--color-silver);*/
+    padding-bottom: .2rem!important;
+}
+
+.privacy-policy{
+    margin: 2rem auto 0;
+}
+
+.privacy-policy .container{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    background: var(--color-silver);
+    border-radius: 2.5rem;
+    margin: 5rem auto;
+    width: 70%;
+    max-width: 1320px;
+    box-shadow: -10px 10px 10px var(--color-ox-blood);
+}
+
+.privacy-policy .row{
+    width: 100%;
+    margin: auto;
+}
+
+.privacy-policy .col-8{
+    width: 95%;
+}
+
+.copyright p{
+    color: var(--color-silver)!important;
+}

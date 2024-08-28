@@ -1,0 +1,832 @@
+@media (min-width: 1400px){
+
+    .xl-margin{
+        margin-top: 1rem;
+    }
+    .reviews .carousel-inner{
+        /*border: 1px solid purple;*/
+        height: 20rem;
+    }
+
+    .reviews .carousel-item{
+        /*border: 1px solid white;*/
+        height: 100%;
+    }
+
+    .reviews .carousel-item .row{
+        /*border: 1px solid green;*/
+        height: 100%;
+        padding-top: 0rem;
+    }
+    .reviews .carousel-item .row .col{
+        /*border: 1px solid red;*/
+        height: 100%!important;
+        width: 100%;
+    }
+
+    .reviews-text-wrapper .about-text strong{
+        /*border: 5px solid purple;*/
+        font-size: 1.1rem;
+    }
+    
+    .navbar .navbar-brand{
+        padding-top: 0;
+        max-height: 4.8rem;
+    }
+
+    .navbar .navbar-brand img{
+        max-width: 100%;
+        /*border: 1px solid greenyellow;*/
+    }
+
+    .close-window{
+        position: relative;
+        left: 49%;
+        top: -28rem;
+    }
+
+    /*.footer .navbar-brand{
+        border: 1px solid red;
+    }*/
+
+    .footer .logo{
+        /*border: 1px solid green;
+        margin-left: -8rem;*/
+        margin-top: -3rem;
+    }
+
+    /*.footer-text-wrapper{
+        border: 1px solid green;
+    }*/
+
+    .footer-icon-wrapper{
+        /*border: 1px solid red;*/
+        max-width: 9rem;
+        min-width: 9rem;
+        padding-left: .7rem;
+        padding-right: 0;
+        position: relative;
+        top: -2rem;
+    }
+
+    .footer-icon-wrapper li a i{
+        font-size: 1.8rem;
+        color: var(--color-black);
+    }
+    
+    
+}
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+
+    .close-window{
+        position: fixed;
+        left: 67.5%!important;
+        top: 5rem!important;
+        font-size: 90%;
+        padding: 0 .2rem;
+    }
+
+    .reviews .carousel-inner{
+        /*border: 1px solid purple;*/
+        height: 20rem;
+    }
+
+    .reviews .carousel-item{
+        /*border: 1px solid white;*/
+        height: 100%;
+    }
+
+    .reviews .carousel-item .row{
+        /*border: 1px solid green;*/
+        height: 100%;
+        padding-top: 0rem;
+    }
+    .reviews .carousel-item .row .col{
+        /*border: 1px solid red;*/
+        height: 100%!important;
+        width: 100%;
+    }
+    
+    .footer .logo{
+        /*border: 1px solid green;
+        margin-left: -8rem;*/
+        margin-top: -3rem;
+    }
+
+    /*.footer-text-wrapper{
+        border: 1px solid green;
+    }*/
+
+    .footer-icon-wrapper{
+        /*border: 1px solid red;*/
+        max-width: 9rem;
+        min-width: 9rem;
+        padding-left: .7rem;
+        padding-right: 0;
+        position: relative;
+        top: -2rem;
+    }
+
+    .footer-icon-wrapper li a i{
+        font-size: 1.8rem;
+        color: var(--color-black);
+    }
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    .close-window{
+        position: fixed;
+        left: 66%!important;
+        top: 4rem!important;
+        font-size: 90%;
+        padding: 0 .2rem;
+    }
+
+    .reviews{
+        /*border: 5px solid red;*/
+        padding-bottom: 0;
+
+    }
+
+    .reviews .container{
+        /*border: 1px solid red;*/
+        padding-bottom: 0!important;
+    }
+
+    .reviews .container .row-margin-bottom{
+        /*border: 1px solid green;*/
+        padding-bottom: 5rem!important;
+    }
+
+    .reviews .carousel-inner{
+        /*border: 1px solid purple;*/
+        height: 20rem;
+    }
+
+    .reviews .carousel-item{
+        /*border: 1px solid white;*/
+        height: 100%;
+    }
+
+    .reviews .carousel-item .row{
+        /*border: 1px solid green;*/
+        height: 100%;
+        padding-top: 0rem;
+    }
+    .reviews .carousel-item .row .col{
+        /*border: 1px solid red;*/
+        height: 100%!important;
+        width: 100%;
+    }
+
+    .logo-start{
+        color: var(--color-black);
+        font-family: "Philosopher", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 200%;
+        position: relative;
+    }
+    
+    .logo-middle{
+        margin-left: -1.5rem;
+        top: -1.2rem;
+    }
+    
+    .logo-end{
+        color: var(--color-black);
+        display: block;
+        font-size: 35%;
+        position: relative;
+        top: -2.5rem;
+        right: -2.4rem;
+        font-weight: 800;
+        font-family: "Montserrat", sans-serif;
+    }
+    
+    .footer .logo{
+        /*border: 1px solid green;
+        margin-left: -8rem;*/
+        margin-top: -3rem;
+    }
+
+    /*.footer-text-wrapper{
+        border: 1px solid green;
+    }*/
+
+    .footer-icon-wrapper{
+        /*border: 1px solid red;*/
+        max-width: 8rem;
+        min-width: 8rem;
+        padding-left: .4rem;
+        padding-right: 0;
+        position: relative;
+        top: -2rem;
+    }
+
+    .footer-icon-wrapper li a i{
+        font-size: 1.75rem;
+        color: var(--color-black);
+    }
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1399px) {
+    /*.container{
+        border: 1px solid red;
+    }*/
+
+    .navbar .navbar-brand{
+        padding-top: 0;
+        max-height: 4.2rem;
+
+    }
+
+    .navbar .navbar-brand img{
+        max-width: 100%;
+
+    }
+
+    .close-window{
+        position: fixed;
+        left: 67%;
+        top: 4rem;
+    }
+
+    .footer-title-2{
+        padding-left: 1.8rem;
+    }
+
+    .footer-text-wrapper-1{
+        margin-left: 2rem;        
+    }
+
+    .footer-address li {
+        white-space: normal;
+    }
+    
+    .footer-address li span {
+        display: inline;
+    }
+    
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+
+    .navbar .navbar-brand img{
+        max-width: 100%;
+    }
+
+    .photo-container img{
+        margin-top: -1rem;
+    }
+
+    .close-window{
+        position: fixed;
+        left: 64.5%!important;
+        top: 4rem!important;
+        font-size: 70%;
+        padding-right: .2rem;
+        padding-left: .2rem;
+    }
+
+    .properties .row .col{
+        height: 100%;
+        min-width: 22rem;
+        /*border: 1px solid red;*/
+    }    
+
+    .md-col{
+        height: 28.1rem!important;
+    }
+
+    .md-col2{
+        height: 29.3rem!important;
+    }
+
+    .md-col3{
+        height: 31.75rem!important;
+    }
+
+    .projects .row .col{
+        height: 100%;
+        min-width: 22rem;
+        /*border: 1px solid red;*/
+    }    
+
+    .md-col4{
+        height: 29.3rem!important;
+    }
+
+    .md-col5{
+        height: 25.68rem!important;
+    }
+
+    .md-col6{
+        height: 22.12rem!important;
+    }
+
+
+    .reviews{
+        /*border: 5px solid red;*/
+        padding-bottom: 0;
+
+    }
+
+    .reviews .container{
+        /*border: 5px solid red;*/
+        padding-bottom: 0!important;
+    }
+
+    .reviews .container .row-margin-bottom{
+        /*border: 5px solid green;*/
+        bottom: 0!important;
+    }
+
+    .reviews .carousel-inner{
+        /*border: 5px solid purple;*/
+        height: 50rem;
+    }
+
+    .reviews .carousel-item{
+        /*border: 3px solid white;*/
+        height: 100%;
+    }
+    .reviews .carousel-item .row{
+        /*border: 5px solid green;*/
+        height: 80%;
+        padding-top: 0rem;
+    }
+    .reviews .carousel-item .row .col{
+        /*border: 5px solid red;*/
+        height: 50%!important;
+        width: 100%;
+    }
+
+    /*.reviews-text-wrapper .about-text{
+        border: 5px solid purple;
+        margin-top: -4rem;
+    }*/
+
+    .reviews-text-wrapper .about-text strong{
+        /*border: 5px solid purple;*/
+        font-size: 1.1rem;
+    }
+
+    .reviews-text-wrapper .button-wrapper button{
+        /*border: 5px solid white;*/
+        position: absolute;
+        bottom: 8rem!important;
+        
+    }
+
+    .logo-start{
+        color: var(--color-black);
+        font-family: "Philosopher", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 200%;
+        position: relative;
+    }
+    
+    .logo-middle{
+        margin-left: -1.4rem;
+        top: -1.0rem;
+    }
+    
+    .logo-end{
+        color: var(--color-black);
+        display: block;
+        font-size: 35%;
+        position: relative;
+        top: -2.2rem;
+        right: -2.4rem;
+        font-weight: 800;
+        font-family: "Montserrat", sans-serif;
+    }
+    
+    .footer .logo{
+        /*border: 1px solid green;
+        margin-left: -8rem;*/
+        margin-top: -2.7rem;
+    }
+
+    /*.footer-text-wrapper{
+        border: 1px solid green;
+    }*/
+
+    .footer-icon-wrapper{
+        /*border: 1px solid red;*/
+        max-width: 7rem;
+        min-width: 7rem;
+        padding-left: 0;
+        padding-right: 0;
+        position: relative;
+        top: -2rem;
+    }
+
+    .footer-icon-wrapper li a i{
+        font-size: 1.65rem;
+        color: var(--color-black);
+    }
+
+    /*.top-footer .sub-row{
+        border: 1px solid red;
+    }
+
+    .top-footer .sub-row .col{
+        border: 1px solid green;
+    }*/
+
+    .top-footer .sub-row .col ul{
+        /*border: 1px solid white;*/
+        padding-left: 0;
+    }
+
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    /*.container{
+        border: 1px solid red;
+    }
+
+    .footer-icon-wrapper{
+        border: 1px solid red;
+    }*/
+
+    .navbar .navbar-brand img{
+        min-width: 8rem!important;
+
+    }
+
+    .photo-container img{
+        margin-top: -1rem;
+    }
+
+    .close-window{
+        position: fixed;
+        left: 63.5%!important;
+        top: 3rem!important;
+        font-size: 50%;
+        padding-right: .2rem;
+        padding-left: .2rem;
+    }
+
+    .reviews{
+        /*border: 5px solid red;*/
+        padding-bottom: 0;
+
+    }
+
+    .reviews .container{
+        /*border: 5px solid red;*/
+        padding-bottom: 0!important;
+    }
+
+    .reviews .container .row-margin-bottom{
+        /*border: 5px solid green;*/
+        bottom: 0!important;
+    }
+
+    .reviews .carousel-inner{
+        /*border: 5px solid purple;*/
+        height: 50rem;
+    }
+
+    .reviews .carousel-item{
+        /*border: 3px solid white;*/
+        height: 100%;
+    }
+    .reviews .carousel-item .row{
+        /*border: 5px solid green;*/
+        height: 80%;
+        padding-top: 0rem;
+    }
+    .reviews .carousel-item .row .col{
+        /*border: 5px solid red;*/
+        height: 50%!important;
+        width: 100%;
+    }
+
+    /*.reviews-text-wrapper .about-text{
+        border: 5px solid purple;
+        margin-top: -4rem;
+    }*/
+
+    .reviews-text-wrapper .about-text strong{
+        /*border: 5px solid purple;*/
+        font-size: 1.1rem;
+    }
+
+    .reviews-text-wrapper .button-wrapper button{
+        /*border: 5px solid white;*/
+        position: absolute;
+        bottom: 8rem!important;
+        
+    }
+
+    .footer-text-wrapper-1{
+        padding-left: 0;
+        padding-right: 2rem;
+        border: 5px solid var(--color-navyblue);
+        margin-bottom: 1rem;
+        border-radius: 20px;
+    }
+
+    .footer-list{
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .top-footer .container{
+        /*border: 2px solid red;*/
+        display: flex;
+        justify-content: center;
+    }
+
+    /*.footer-icon-wrapper .fa{
+        font-size: 360%;
+    }*/
+
+
+    .logo-start{
+        color: var(--color-black);
+        font-family: "Philosopher", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 5rem;
+        position: relative;
+    }
+    
+    .logo-middle{
+        margin-left: -1.7rem;
+        top: -1.3rem;
+    }
+    
+    .logo-end{
+        color: var(--color-black);
+        display: block;
+        font-size: .7rem;
+        position: relative;
+        top: -2.6rem;
+        right: -2rem;
+        font-weight: 800;
+        font-family: "Montserrat", sans-serif;
+    }
+
+    /*.footer-icon-wrapper{
+        border: 1px solid red;
+    }*/
+}
+
+    
+
+@media (max-width: 991px){
+
+    .close-window{
+        position: fixed;
+        left: 63%;
+        top: 4rem;
+    }
+
+    .reviews-text-wrapper{
+        padding: 2rem 3rem 0;
+    }
+
+    .reviews .button-wrapper{
+        padding-right: 10.8rem!important;
+    }
+
+    
+}
+
+@media (max-width: 767px){
+
+    .about-wrapper{
+        padding: 2rem 0 3rem;
+    }
+
+    .button-wrapper{
+        padding-left: 0!important;
+        padding-right: 10.7rem!important;
+    }
+
+    ul{
+        list-style-type: none;
+    }
+
+    .about-list{
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .properties .button-wrapper{
+        padding-right: 13.5rem!important;
+    }
+
+    .projects .button-wrapper{
+        padding-right: 10.2rem!important;
+    }    
+
+
+    .footer-icon-wrapper{
+        /*border: 1px solid red;*/
+        max-width: 6rem;
+        min-width: 6rem;
+        padding-left: .5rem;
+        padding-right: 0;
+        position: relative;
+        top: -2rem;
+    }
+
+    .footer-icon-wrapper li a i{
+        font-size: 1.6rem;
+        color: var(--color-black);
+    }
+
+}
+
+@media (max-width: 575px){
+    /*.container{
+        border: 1px solid red;
+    }    
+
+    .top-footer .main-row .main-col{
+        border: 1px solid black;
+    }*/
+
+    .navbar-toggler-icon {
+        border: 2px solid var(--color-navyblue)!important;
+        
+    }
+    
+
+    .navbar .container{
+        /*border: 1px solid red;*/
+        padding-top: 0;
+        width: 95%;
+    }
+
+    .navbar .navbar-brand{
+        max-width: 80%!important;
+        /*border: 1px solid red;*/
+        max-height: 2rem;
+        padding-top: 0;
+        margin-left: -2.2rem;
+        /*border: 1px solid greenyellow;*/
+    }
+
+    .navbar .navbar-brand img{
+        max-width: 8rem!important;
+        /*border: 1px solid white;*/
+    }
+
+    .photo-container img{
+        margin-top: -1.2rem;
+    }
+
+    .close-window{
+        position: fixed;
+        left: 66%;
+        top: 3rem;
+        font-size: 50%;
+        padding-right: .2rem;
+        padding-left: .2rem;
+    }
+
+    .reviews{
+        /*border: 5px solid red;*/
+        padding-bottom: 0;
+
+    }
+
+    .reviews .container{
+        /*border: 5px solid red;*/
+        padding-bottom: 0!important;
+    }
+
+    .reviews .container .row-margin-bottom{
+        /*border: 5px solid green;*/
+        bottom: 0!important;
+    }
+
+    .reviews .carousel-inner{
+        /*border: 5px solid purple;*/
+        height: 50rem;
+    }
+
+    .reviews .carousel-item{
+        /*border: 3px solid white;*/
+        height: 100%;
+    }
+    .reviews .carousel-item .row{
+        /*border: 5px solid green;*/
+        height: 80%;
+        padding-top: 0rem;
+    }
+    .reviews .carousel-item .row .col{
+        /*border: 5px solid red;*/
+        height: 50%!important;
+        width: 100%;
+    }
+
+    .reviews-text-wrapper{
+        /*border: 5px solid yellow;*/
+        margin-top: 4rem;
+        height: 100%;
+    }
+
+    .reviews-text-wrapper .about-text{
+        /*border: 5px solid purple;*/
+        margin-top: -4rem;
+    }
+
+    .reviews-text-wrapper .about-text strong{
+        /*border: 5px solid purple;*/
+        font-size: 1.1rem;
+    }
+
+    .reviews-text-wrapper .button-wrapper{
+        /*border: 5px solid greenyellow;*/
+        margin-top: -20rem;
+        height: 100%;
+        padding-top: -5rem!important;
+    }
+
+    .reviews-text-wrapper .button-wrapper button{
+        /*border: 5px solid white;*/
+        position: absolute;
+        bottom: 8rem!important;
+        
+    }
+
+    .contact{
+        padding-top: 0;
+    }
+
+    .footer .footer-text-wrapper{
+        /*border: 2px solid greenyellow;*/
+        width: 10rem;
+    }
+
+    .top-footer .container{
+        /*border: 2px solid red;*/
+        display: flex;
+        justify-content: center;
+    }
+
+    .top-footer .main-row{
+        flex-direction: column;
+    }
+
+    .top-footer .sub-row{
+        flex-direction: column;
+    }
+
+    .footer-text-wrapper-1{
+        padding-left: 0;
+        padding-right: 2rem;
+        border: 5px solid var(--color-navyblue);
+        margin-bottom: 1rem;
+        border-radius: 20px;
+    }
+
+    .footer-list{
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+
+    .logo-start{
+        color: var(--color-black);
+        font-family: "Philosopher", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 5rem;
+        position: relative;
+    }
+    
+    .logo-middle{
+        margin-left: -1.7rem;
+        top: -1.4rem;
+    }
+    
+    .logo-end{
+        color: var(--color-black);
+        display: block;
+        font-size: .6rem;
+        position: relative;
+        top: -2.7rem;
+        right: -1.9rem;
+        font-weight: 800;
+        font-family: "Montserrat", sans-serif;
+    }
+
+    /*.footer-icon-wrapper{
+        border: 1px solid red;
+    }*/
+}
