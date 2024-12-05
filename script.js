@@ -12,7 +12,7 @@ function removeNavbarOnClick(){
 
 document.addEventListener('DOMContentLoaded', function() {
 
-    const photoURL = 'https://lh3.googleusercontent.com/d/1P3QwQgK5C2akdCGtfNFhjV63rxnO3_tT'; // Update this with the correct path to your photo
+    const photoURL = 'https://lh3.googleusercontent.com/d/1Wb3RD5yiiP5jK-8yS_LsIVeuUn6pbQVa'; 
 
     const image = document.createElement('img');
     image.src = photoURL;
